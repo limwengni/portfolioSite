@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/limwengni/portfolioSite/static/css/main.553246dd.css",
+    "main.js": "/limwengni/portfolioSite/static/js/main.0bc3d144.js",
+    "static/js/787.38f16daf.chunk.js": "/limwengni/portfolioSite/static/js/787.38f16daf.chunk.js",
+    "static/media/e.png": "/limwengni/portfolioSite/static/media/e.d8e9a9289dcc76d931b9.png",
+    "static/media/m.png": "/limwengni/portfolioSite/static/media/m.167c88550478e6f0f85c.png",
+    "static/media/l.png": "/limwengni/portfolioSite/static/media/l.3549d9e451d7abb96934.png",
+    "static/media/g.png": "/limwengni/portfolioSite/static/media/g.c189f147f5f1860dd4c5.png",
+    "static/media/b.png": "/limwengni/portfolioSite/static/media/b.b1dc9eeb13b9837cea03.png",
+    "static/media/a.png": "/limwengni/portfolioSite/static/media/a.b18bb7da7e0da1b12998.png",
+    "static/media/d.png": "/limwengni/portfolioSite/static/media/d.e33b881cd42a867cae10.png",
+    "static/media/c.png": "/limwengni/portfolioSite/static/media/c.c8780b30f9b07ee38c16.png",
+    "static/media/n.png": "/limwengni/portfolioSite/static/media/n.ec5c594f3e7a8f66863e.png",
+    "static/media/k.png": "/limwengni/portfolioSite/static/media/k.02e16df6861464872846.png",
+    "static/media/myImg.jpeg": "/limwengni/portfolioSite/static/media/myImg.a6c40d038b6102354ca1.jpeg",
+    "static/media/o.png": "/limwengni/portfolioSite/static/media/o.20adfb35ae6a6e5817bf.png",
+    "static/media/h.png": "/limwengni/portfolioSite/static/media/h.842ef02b41f2b4a40201.png",
+    "static/media/f.png": "/limwengni/portfolioSite/static/media/f.bbbbbabc8c191bfb99bf.png",
+    "static/media/i.png": "/limwengni/portfolioSite/static/media/i.0c5480e2c32b58686139.png",
+    "static/media/j.svg": "/limwengni/portfolioSite/static/media/j.97cc17cce9e896ef1405.svg",
+    "index.html": "/limwengni/portfolioSite/index.html",
+    "main.553246dd.css.map": "/limwengni/portfolioSite/static/css/main.553246dd.css.map",
+    "main.0bc3d144.js.map": "/limwengni/portfolioSite/static/js/main.0bc3d144.js.map",
+    "787.38f16daf.chunk.js.map": "/limwengni/portfolioSite/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.553246dd.css",
+    "static/js/main.0bc3d144.js"
+  ]
+}
