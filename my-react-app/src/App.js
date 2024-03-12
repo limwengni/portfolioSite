@@ -147,7 +147,7 @@ function App() {
             to enhance my skills. After completing my degree, I aspire to become a Full-Stack developer.
           </div>
           <div className="resume">
-            <a href="https://drive.google.com/file/d/1y5n79EjTYH_1g-ZwDbXRnrmav0z1ghw-/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="roundedRect-button"><FontAwesomeIcon icon={faFile} /> View My Resume</a>
+            <a href="https://drive.google.com/file/d/1aub-ggW70x7cqPbfb1LKlyWTWYCiRzBZ/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="roundedRect-button"><FontAwesomeIcon icon={faFile} /> View My Resume</a>
           </div>
         </div>
       </div>
