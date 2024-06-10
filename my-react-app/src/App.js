@@ -141,17 +141,13 @@ function App() {
             About Me
           </div>
           <div className="details">
-            I am a <span class="font-medium" style={{ color: '#f54966' }}>second-year</span> degree student studying <span class="font-medium">Software System Development </span>
+            I am a <span class="font-medium" style={{ color: '#f54966' }}>third-year</span> degree student studying <span class="font-medium">Software System Development </span>
             at Tunku Abdul Rahman University of Management and Technology (TARUMT).
             With a passion for Full-Stack Development, I have actively pursued opportunities
             to enhance my skills. After completing my degree, I aspire to become a Full-Stack developer.
           </div>
           <div className="resume">
-<<<<<<< HEAD
-            <a href="https://drive.google.com/file/d/1aub-ggW70x7cqPbfb1LKlyWTWYCiRzBZ/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="roundedRect-button"><FontAwesomeIcon icon={faFile} /> View My Resume</a>
-=======
-            <a href="https://drive.google.com/file/d/1aub-ggW70x7cqPbfb1LKlyWTWYCiRzBZ/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="roundedRect-button"><FontAwesomeIcon icon={faFile} /> View My Resume</a>
->>>>>>> 4bc4eaa7738dbc3028d6b413fc9dc0206cbb717a
+            <a href="https://drive.google.com/file/d/1tPpNqjzis3us1gUzUofDGdbl0KgpaXZl/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="roundedRect-button"><FontAwesomeIcon icon={faFile} /> View My Resume</a>
           </div>
         </div>
       </div>
